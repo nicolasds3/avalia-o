@@ -1,0 +1,162 @@
+#titulo {
+    text-align: center;
+    font-size: 120%;
+    color: white;
+    border-style: dashed;
+    border-width: 1px; 
+}
+header{
+    width: 500px;
+    margin: auto;
+}
+
+body {
+    background-image: url(../../visual/imagens/atv/wall.png);
+    background-size: contain;
+    background-repeat: repeat-y;
+}
+
+#butao {
+    display: flex;
+}
+
+p {
+    font-size: 200%;
+}
+
+a {
+    color: white;
+}
+
+#button {
+    margin-left: 300px;
+    width: 70px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: black;
+}
+
+#button:hover{
+    width: 150px;
+    transition: 1s;
+    border-style: dotted;
+    border-color: white;
+    border-width: 5px;
+}
+
+p {
+    text-align: center;
+}
+
+
+
+#div1 {
+    margin-left: 100px;
+    background: linear-gradient(to right, mediumaquamarine 50%, black 50%);
+    width: 285px;
+    color: white;
+}
+
+#div2 {
+    margin-left: 300px;
+    width: 285px;
+    background: linear-gradient(to right, darkgrey 50%, black 50%);
+    color: white;
+}
+
+#div3 {
+    margin-left: 500px;
+    width: 285px;
+    background: linear-gradient(to right, mediumblue 50%, black 50%);
+    color: white;
+}
+
+#div4 {
+    margin-left: 700px;
+    width: 285px;
+    background: linear-gradient(to right, darkcyan 50%, black 50%);
+    color: white;
+}
+
+#div5 {
+    margin-left: 900px;
+    width: 285px;
+    background: linear-gradient(to right, springgreen 50%, black 50%);
+    color: white;
+}
+
+#div6 {
+    margin-left: 1100px;
+    width: 285px;
+    background: linear-gradient(to right, maroon 50%, grey 50%);
+    color: white;
+}
+
+#div7 {
+    margin-left: 1300px;
+    width: 285px;
+    background-color: black;
+    color: white;
+}
+
+#div8 {
+    margin-left: 1500px;
+    width: 285px;
+    background: linear-gradient(to right, darkblue 50%, blue 50%);
+    color: white;
+}
+
+#div9 {
+    margin-left: 1700px;
+    width: 285px;
+    background: linear-gradient(to right, darkOliveGreen 50%, black 50%);
+    color: white;
+}
+
+#div10 {
+    margin-left: 1900px;
+    width: 285px;
+    background: linear-gradient(to right, Dimgrey 50%, green 50%);
+    color: white;
+}
+
+#div11 {
+    margin-left: 1650px;
+    width: 285px;
+    background-color: red;
+    color: white;
+}
+
+.espacados {
+    display: flex;
+    gap: 30px;
+    margin-top: 100px;
+    justify-content: center;
+}
+
+#aliens {
+    width: 375px;
+    height: 375px;
+    border: solid 5px white;
+}
+
+#alien{
+    width: 375px;
+    height: 375px;
+}
+
+.naoespacados {
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+}
+
+#aliens2 {
+    width: 100vw;
+    height: 500px;
+}
+
+#alien2 {
+    width: 500px;
+    height: 500px;
+}

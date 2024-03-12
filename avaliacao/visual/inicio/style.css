@@ -1,0 +1,24 @@
+.imagem {
+    display: flex;
+    justify-content: center;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+.url {
+    display: flex;
+    justify-content: center;
+}
+
+.image {
+    width: 25%;
+}
+
+.botao {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
